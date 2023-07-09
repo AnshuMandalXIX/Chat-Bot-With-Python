@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "Hey",
+      "answer": "Hello There"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "How u Doing?",
+      "answer": "Im Good What about U"
+    },
+    {
+      "question": "How Are You",
+      "answer": "Im Good"
+    },
+    {
+      "question": "How much you Know?",
+      "answer": "You can ask me anything"
+    },
+    {
+      "question": "What you are?",
+      "answer": "Im a ChatBot"
+    }
+  ]
+}
