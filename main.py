@@ -1,6 +1,6 @@
+#Simple Chatbot
 import json
 from difflib import get_close_matches
-
 
 #Load the knowledge base from a JSON file
 def load_knowledge_base(file_path: str):
